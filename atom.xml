@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>中国古诗词</title>
+  <title>poemHub</title>
   
   <subtitle>古诗词</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://poemhub.pub/"/>
-  <updated>2019-02-15T10:26:54.006Z</updated>
+  <updated>2019-02-23T06:14:10.090Z</updated>
   <id>http://poemhub.pub/</id>
   
   <author>
@@ -17,52 +17,19 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>木兰花·拟古决绝词柬友</title>
-    <link href="http://poemhub.pub/2019/02/15/%E6%9C%A8%E5%85%B0%E8%8A%B1%C2%B7%E6%8B%9F%E5%8F%A4%E5%86%B3%E7%BB%9D%E8%AF%8D%E6%9F%AC%E5%8F%8B/"/>
-    <id>http://poemhub.pub/2019/02/15/木兰花·拟古决绝词柬友/</id>
-    <published>2019-02-15T09:43:33.000Z</published>
-    <updated>2019-02-15T10:26:54.006Z</updated>
+    <title>上明达皇后册宝五首</title>
+    <link href="http://poemhub.pub/2019/02/23/%E4%B8%8A%E6%98%8E%E8%BE%BE%E7%9A%87%E5%90%8E%E5%86%8C%E5%AE%9D%E4%BA%94%E9%A6%9620190223141410/"/>
+    <id>http://poemhub.pub/2019/02/23/上明达皇后册宝五首20190223141410/</id>
+    <published>2019-02-23T06:14:10.000Z</published>
+    <updated>2019-02-23T06:14:10.090Z</updated>
     
-    <content type="html"><![CDATA[<div align="center"><br>作者：纳兰性德<br>人生若只如初见，何事秋风悲画扇。 等闲变却故人心，却道故人心易变。(一作：却道故心人易变) 骊山语罢清宵半，泪雨霖铃终不怨。(一作：泪雨零 / 夜雨霖) 何如薄幸锦衣郎，比翼连枝当日愿。<br></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：纳兰性德&lt;br&gt;人生若只如初见，何事秋风悲画扇。 等闲变却故人心，却道故人心易变。(一作：却道故心人易变) 骊山语罢清宵半，泪雨霖铃终不怨。(一作：泪雨零 / 夜雨霖) 何如薄幸锦衣郎，比翼连枝当日愿。&lt;br&gt;&lt;/div&gt;
-      
-    
-    </summary>
-    
-      <category term="清代" scheme="http://poemhub.pub/categories/%E6%B8%85%E4%BB%A3/"/>
-    
-    
-      <category term="闺怨" scheme="http://poemhub.pub/tags/%E9%97%BA%E6%80%A8/"/>
-    
-      <category term="最美" scheme="http://poemhub.pub/tags/%E6%9C%80%E7%BE%8E/"/>
-    
-      <category term="悲叹" scheme="http://poemhub.pub/tags/%E6%82%B2%E5%8F%B9/"/>
-    
-      <category term="命运" scheme="http://poemhub.pub/tags/%E5%91%BD%E8%BF%90/"/>
-    
-      <category term="分手" scheme="http://poemhub.pub/tags/%E5%88%86%E6%89%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>一剪梅·红藕香残玉簟秋</title>
-    <link href="http://poemhub.pub/2019/02/15/%E4%B8%80%E5%89%AA%E6%A2%85%C2%B7%E7%BA%A2%E8%97%95%E9%A6%99%E6%AE%8B%E7%8E%89%E7%B0%9F%E7%A7%8B/"/>
-    <id>http://poemhub.pub/2019/02/15/一剪梅·红藕香残玉簟秋/</id>
-    <published>2019-02-15T09:43:33.000Z</published>
-    <updated>2019-02-15T10:26:53.973Z</updated>
-    
-    <content type="html"><![CDATA[<div align="center"><br>作者：李清照<br>红藕香残玉簟秋。轻解罗裳，独上兰舟。云中谁寄锦书来，雁字回时，月满西楼。 花自飘零水自流。一种相思，两处闲愁。此情无计可消除，才下眉头，却上心头。<br></div>]]></content>
+    <content type="html"><![CDATA[<div align="center"><br>作者：真宗<br>清官有严，广乐在庭。<br>钟鼓筦声，九变既成。<br>缩茅以献，洁秬惟声。<br>灵游可想，来燕来宁。<br></div>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：李清照&lt;br&gt;红藕香残玉簟秋。轻解罗裳，独上兰舟。云中谁寄锦书来，雁字回时，月满西楼。 花自飘零水自流。一种相思，两处闲愁。此情无计可消除，才下眉头，却上心头。&lt;br&gt;&lt;/div&gt;
+        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：真宗&lt;br&gt;清官有严，广乐在庭。&lt;br&gt;钟鼓筦声，九变既成。&lt;br&gt;缩茅以献，洁秬惟声。&lt;br&gt;灵游可想，来燕来宁。&lt;br&gt;&lt;/div&gt;
       
     
     </summary>
@@ -70,102 +37,22 @@
       <category term="宋代" scheme="http://poemhub.pub/categories/%E5%AE%8B%E4%BB%A3/"/>
     
     
-      <category term="宋词三百首" scheme="http://poemhub.pub/tags/%E5%AE%8B%E8%AF%8D%E4%B8%89%E7%99%BE%E9%A6%96/"/>
-    
-      <category term="宋词精选" scheme="http://poemhub.pub/tags/%E5%AE%8B%E8%AF%8D%E7%B2%BE%E9%80%89/"/>
-    
-      <category term="婉约" scheme="http://poemhub.pub/tags/%E5%A9%89%E7%BA%A6/"/>
-    
-      <category term="思念" scheme="http://poemhub.pub/tags/%E6%80%9D%E5%BF%B5/"/>
-    
-      <category term="闺怨" scheme="http://poemhub.pub/tags/%E9%97%BA%E6%80%A8/"/>
-    
-      <category term="写景" scheme="http://poemhub.pub/tags/%E5%86%99%E6%99%AF/"/>
-    
-      <category term="最美" scheme="http://poemhub.pub/tags/%E6%9C%80%E7%BE%8E/"/>
-    
-      <category term="优美" scheme="http://poemhub.pub/tags/%E4%BC%98%E7%BE%8E/"/>
-    
-      <category term="离情" scheme="http://poemhub.pub/tags/%E7%A6%BB%E6%83%85/"/>
-    
   </entry>
   
   <entry>
-    <title>一剪梅·舟过吴江</title>
-    <link href="http://poemhub.pub/2019/02/15/%E4%B8%80%E5%89%AA%E6%A2%85%C2%B7%E8%88%9F%E8%BF%87%E5%90%B4%E6%B1%9F/"/>
-    <id>http://poemhub.pub/2019/02/15/一剪梅·舟过吴江/</id>
-    <published>2019-02-15T09:43:33.000Z</published>
-    <updated>2019-02-15T10:26:55.452Z</updated>
+    <title>宝鸡县</title>
+    <link href="http://poemhub.pub/2019/02/23/%E5%AE%9D%E9%B8%A1%E5%8E%BF20190223141410/"/>
+    <id>http://poemhub.pub/2019/02/23/宝鸡县20190223141410/</id>
+    <published>2019-02-23T06:14:10.000Z</published>
+    <updated>2019-02-23T06:14:10.049Z</updated>
     
-    <content type="html"><![CDATA[<div align="center"><br>作者：蒋捷<br>一片春愁待酒浇。江上舟摇，楼上帘招。秋娘渡与泰娘桥，风又飘飘，雨又萧萧。（渡 一作：度。桥 一作：娇） 何日归家洗客袍？银字笙调，心字香烧。流光容易把人抛，红了樱桃，绿了芭蕉。<br></div>]]></content>
+    <content type="html"><![CDATA[<div align="center"><br>作者：蹇谔<br><p>到此平原尽，峰回径欲迷。岩疆连陇蜀，古道达羌氐。</p><p>石与人争路，云随马渡溪。风尘何日谢，惆怅散关西。</p><br></div>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：蒋捷&lt;br&gt;一片春愁待酒浇。江上舟摇，楼上帘招。秋娘渡与泰娘桥，风又飘飘，雨又萧萧。（渡 一作：度。桥 一作：娇） 何日归家洗客袍？银字笙调，心字香烧。流光容易把人抛，红了樱桃，绿了芭蕉。&lt;br&gt;&lt;/div&gt;
-      
-    
-    </summary>
-    
-      <category term="宋代" scheme="http://poemhub.pub/categories/%E5%AE%8B%E4%BB%A3/"/>
-    
-    
-      <category term="宋词三百首" scheme="http://poemhub.pub/tags/%E5%AE%8B%E8%AF%8D%E4%B8%89%E7%99%BE%E9%A6%96/"/>
-    
-      <category term="婉约" scheme="http://poemhub.pub/tags/%E5%A9%89%E7%BA%A6/"/>
-    
-      <category term="伤春" scheme="http://poemhub.pub/tags/%E4%BC%A4%E6%98%A5/"/>
-    
-      <category term="思归" scheme="http://poemhub.pub/tags/%E6%80%9D%E5%BD%92/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>一毛不拔</title>
-    <link href="http://poemhub.pub/2019/02/15/%E4%B8%80%E6%AF%9B%E4%B8%8D%E6%8B%94/"/>
-    <id>http://poemhub.pub/2019/02/15/一毛不拔/</id>
-    <published>2019-02-15T09:43:33.000Z</published>
-    <updated>2019-02-15T10:26:55.530Z</updated>
-    
-    <content type="html"><![CDATA[<div align="center"><br>作者：邯郸淳<br>一猴死，见冥王，求转人身。王曰：“既欲做人，须将毛尽拔去。”即唤夜叉拔之。方拔一根，猴不胜痛叫。王笑曰：“看你一毛不拔，如何做人？”<br></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：邯郸淳&lt;br&gt;一猴死，见冥王，求转人身。王曰：“既欲做人，须将毛尽拔去。”即唤夜叉拔之。方拔一根，猴不胜痛叫。王笑曰：“看你一毛不拔，如何做人？”&lt;br&gt;&lt;/div&gt;
-      
-    
-    </summary>
-    
-      <category term="魏晋" scheme="http://poemhub.pub/categories/%E9%AD%8F%E6%99%8B/"/>
-    
-    
-      <category term="小学文言文" scheme="http://poemhub.pub/tags/%E5%B0%8F%E5%AD%A6%E6%96%87%E8%A8%80%E6%96%87/"/>
-    
-      <category term="寓言" scheme="http://poemhub.pub/tags/%E5%AF%93%E8%A8%80/"/>
-    
-      <category term="故事" scheme="http://poemhub.pub/tags/%E6%95%85%E4%BA%8B/"/>
-    
-      <category term="哲理" scheme="http://poemhub.pub/tags/%E5%93%B2%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>一萼红 碧栖词丈归自沪江，为寄江南梅，迟延未到，作此以速之</title>
-    <link href="http://poemhub.pub/2019/02/15/%E4%B8%80%E8%90%BC%E7%BA%A2%20%E7%A2%A7%E6%A0%96%E8%AF%8D%E4%B8%88%E5%BD%92%E8%87%AA%E6%B2%AA%E6%B1%9F%EF%BC%8C%E4%B8%BA%E5%AF%84%E6%B1%9F%E5%8D%97%E6%A2%85%EF%BC%8C%E8%BF%9F%E5%BB%B6%E6%9C%AA%E5%88%B0%EF%BC%8C%E4%BD%9C%E6%AD%A4%E4%BB%A5%E9%80%9F%E4%B9%8B/"/>
-    <id>http://poemhub.pub/2019/02/15/一萼红 碧栖词丈归自沪江，为寄江南梅，迟延未到，作此以速之/</id>
-    <published>2019-02-15T09:43:33.000Z</published>
-    <updated>2019-02-15T10:26:56.939Z</updated>
-    
-    <content type="html"><![CDATA[<div align="center"><br>作者：李慎溶<br>步空陂。正凝思望远，无语忆幽姿。津国清霜，柴门流水，关河魂梦参差。 待料理、江南旧怨，甚东风、犹滞在横枝。浮海春回，吟芳人老，馀想惊非。 迢递平烟千驿，更平波千顷，冷浸冰肌。岁晏情怀，天涯滋味，寒边事事轻违。 渺何处、吴船载雨，较花候、却比故山迟。长为婵娟瘦损，此意谁知。<br></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：李慎溶&lt;br&gt;步空陂。正凝思望远，无语忆幽姿。津国清霜，柴门流水，关河魂梦参差。 待料理、江南旧怨，甚东风、犹滞在横枝。浮海春回，吟芳人老，馀想惊非。 迢递平烟千驿，更平波千顷，冷浸冰肌。岁晏情怀，天涯滋味，寒边事事轻违。 渺
+        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：蹇谔&lt;br&gt;&lt;p&gt;到此平原尽，峰回径欲迷。岩疆连陇蜀，古道达羌氐。&lt;/p&gt;&lt;p&gt;石与人争路，云随马渡溪。风尘何日谢，惆怅散关西。&lt;/p&gt;&lt;br&gt;&lt;/div&gt;
       
     
     </summary>
@@ -176,65 +63,19 @@
   </entry>
   
   <entry>
-    <title>一萼红（弁阳翁新居，堂名志雅，词名萍洲渔笛谱）</title>
-    <link href="http://poemhub.pub/2019/02/15/%E4%B8%80%E8%90%BC%E7%BA%A2%EF%BC%88%E5%BC%81%E9%98%B3%E7%BF%81%E6%96%B0%E5%B1%85%EF%BC%8C%E5%A0%82%E5%90%8D%E5%BF%97%E9%9B%85%EF%BC%8C%E8%AF%8D%E5%90%8D%E8%90%8D%E6%B4%B2%E6%B8%94%E7%AC%9B%E8%B0%B1%EF%BC%89/"/>
-    <id>http://poemhub.pub/2019/02/15/一萼红（弁阳翁新居，堂名志雅，词名萍洲渔笛谱）/</id>
-    <published>2019-02-15T09:43:33.000Z</published>
-    <updated>2019-02-15T10:26:57.115Z</updated>
+    <title>云松轩杂韵六首寄呈轩中诸君子 其五</title>
+    <link href="http://poemhub.pub/2019/02/23/%E4%BA%91%E6%9D%BE%E8%BD%A9%E6%9D%82%E9%9F%B5%E5%85%AD%E9%A6%96%E5%AF%84%E5%91%88%E8%BD%A9%E4%B8%AD%E8%AF%B8%E5%90%9B%E5%AD%90%20%E5%85%B6%E4%BA%9420190223141410/"/>
+    <id>http://poemhub.pub/2019/02/23/云松轩杂韵六首寄呈轩中诸君子 其五20190223141410/</id>
+    <published>2019-02-23T06:14:10.000Z</published>
+    <updated>2019-02-23T06:14:10.039Z</updated>
     
-    <content type="html"><![CDATA[<div align="center"><br>作者：张炎<br>制荷衣。傍山窗卜隐，雅志可闲时。款竹门深，移花槛小，动人芳意菲菲。怕冷落、萍洲夜月，想时将、渔笛静中吹。尘外柴桑，灯前儿女，笑语忘归。 分得烟霞数亩，乍扫苔寻径，拨叶通池。放鹤幽情，吟莺欢事，老去却愿春迟。爱吾庐、琴书自乐，好襟怀、初不要人知。长日一帘芳草，一卷新诗。<br></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：张炎&lt;br&gt;制荷衣。傍山窗卜隐，雅志可闲时。款竹门深，移花槛小，动人芳意菲菲。怕冷落、萍洲夜月，想时将、渔笛静中吹。尘外柴桑，灯前儿女，笑语忘归。 分得烟霞数亩，乍扫苔寻径，拨叶通池。放鹤幽情，吟莺欢事，老去却愿春迟。爱吾庐、
-      
-    
-    </summary>
-    
-      <category term="宋代" scheme="http://poemhub.pub/categories/%E5%AE%8B%E4%BB%A3/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>丁亥仲春余归自岭右暂憩乡园读杜工部秦州杂咏怅然感怀因次其韵 其十二</title>
-    <link href="http://poemhub.pub/2019/02/15/%E4%B8%81%E4%BA%A5%E4%BB%B2%E6%98%A5%E4%BD%99%E5%BD%92%E8%87%AA%E5%B2%AD%E5%8F%B3%E6%9A%82%E6%86%A9%E4%B9%A1%E5%9B%AD%E8%AF%BB%E6%9D%9C%E5%B7%A5%E9%83%A8%E7%A7%A6%E5%B7%9E%E6%9D%82%E5%92%8F%E6%80%85%E7%84%B6%E6%84%9F%E6%80%80%E5%9B%A0%E6%AC%A1%E5%85%B6%E9%9F%B5%20%E5%85%B6%E5%8D%81%E4%BA%8C/"/>
-    <id>http://poemhub.pub/2019/02/15/丁亥仲春余归自岭右暂憩乡园读杜工部秦州杂咏怅然感怀因次其韵 其十二/</id>
-    <published>2019-02-15T09:43:33.000Z</published>
-    <updated>2019-02-15T10:26:55.798Z</updated>
-    
-    <content type="html"><![CDATA[<div align="center"><br>作者：陈邦彦<br>短褐冲寒陇，徒行涉涧泉。浮名争属目，贫病任流传。 遍野惊群盗，沧江当并边。乡关曾未靖，况也勒燕然。<br></div>]]></content>
+    <content type="html"><![CDATA[<div align="center"><br>作者：刘崧<br><p>霏微夕雨沾林润，掩冉晴云傍水閒。忽忆南园两佳士，今晨携酒过西山。</p><br></div>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：陈邦彦&lt;br&gt;短褐冲寒陇，徒行涉涧泉。浮名争属目，贫病任流传。 遍野惊群盗，沧江当并边。乡关曾未靖，况也勒燕然。&lt;br&gt;&lt;/div&gt;
-      
-    
-    </summary>
-    
-      <category term="明代" scheme="http://poemhub.pub/categories/%E6%98%8E%E4%BB%A3/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>七十翁吟五言古体十首</title>
-    <link href="http://poemhub.pub/2019/02/15/%E4%B8%83%E5%8D%81%E7%BF%81%E5%90%9F%E4%BA%94%E8%A8%80%E5%8F%A4%E4%BD%93%E5%8D%81%E9%A6%96/"/>
-    <id>http://poemhub.pub/2019/02/15/七十翁吟五言古体十首/</id>
-    <published>2019-02-15T09:43:33.000Z</published>
-    <updated>2019-02-15T10:26:56.048Z</updated>
-    
-    <content type="html"><![CDATA[<div align="center"><br>作者：方回<br>先祖八十四，卒予生之年。 先父五十六，予甫三岁焉。 厥今七十叟，万死偶获全。 过父岂不愧，逮祖恐未然。 初学晚颇进，粗亦窥圣贤。 常感知己恩，不报负我冤。 梦寐此心明，暗室如青天。 无田与儿孙，未为无所传。<br></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：方回&lt;br&gt;先祖八十四，卒予生之年。 先父五十六，予甫三岁焉。 厥今七十叟，万死偶获全。 过父岂不愧，逮祖恐未然。 初学晚颇进，粗亦窥圣贤。 常感知己恩，不报负我冤。 梦寐此心明，暗室如青天。 无田与儿孙，未为无所传。&lt;br&gt;
+        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：刘崧&lt;br&gt;&lt;p&gt;霏微夕雨沾林润，掩冉晴云傍水閒。忽忆南园两佳士，今晨携酒过西山。&lt;/p&gt;&lt;br&gt;&lt;/div&gt;
       
     
     </summary>
@@ -245,19 +86,19 @@
   </entry>
   
   <entry>
-    <title>七夕</title>
-    <link href="http://poemhub.pub/2019/02/15/%E4%B8%83%E5%A4%95/"/>
-    <id>http://poemhub.pub/2019/02/15/七夕/</id>
-    <published>2019-02-15T09:43:33.000Z</published>
-    <updated>2019-02-15T10:26:58.064Z</updated>
+    <title>屐</title>
+    <link href="http://poemhub.pub/2019/02/23/%E5%B1%9020190223141410/"/>
+    <id>http://poemhub.pub/2019/02/23/屐20190223141410/</id>
+    <published>2019-02-23T06:14:10.000Z</published>
+    <updated>2019-02-23T06:14:10.109Z</updated>
     
-    <content type="html"><![CDATA[<div align="center"><br>作者：葛胜仲<br>朱阁琼宫耀紫房，翠翘下堕慰愁肠。天中感遇非尘世，不念痴牛念郭郎。<br></div>]]></content>
+    <content type="html"><![CDATA[<div align="center"><br>作者：强至<br>好在登高屐，东西类此身。<br>游频齿几折，用久蜡还新。<br>晚步怜今日，幽寻忆古人。<br>莫随珠履客，且伴白纶巾。<br></div>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：葛胜仲&lt;br&gt;朱阁琼宫耀紫房，翠翘下堕慰愁肠。天中感遇非尘世，不念痴牛念郭郎。&lt;br&gt;&lt;/div&gt;
+        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：强至&lt;br&gt;好在登高屐，东西类此身。&lt;br&gt;游频齿几折，用久蜡还新。&lt;br&gt;晚步怜今日，幽寻忆古人。&lt;br&gt;莫随珠履客，且伴白纶巾。&lt;br&gt;&lt;/div&gt;
       
     
     </summary>
@@ -268,156 +109,19 @@
   </entry>
   
   <entry>
-    <title>七夕怀平仲扬州</title>
-    <link href="http://poemhub.pub/2019/02/15/%E4%B8%83%E5%A4%95%E6%80%80%E5%B9%B3%E4%BB%B2%E6%89%AC%E5%B7%9E/"/>
-    <id>http://poemhub.pub/2019/02/15/七夕怀平仲扬州/</id>
-    <published>2019-02-15T09:43:33.000Z</published>
-    <updated>2019-02-15T10:26:56.585Z</updated>
+    <title>和林金石诗</title>
+    <link href="http://poemhub.pub/2019/02/23/%E5%92%8C%E6%9E%97%E9%87%91%E7%9F%B3%E8%AF%9720190223141410/"/>
+    <id>http://poemhub.pub/2019/02/23/和林金石诗20190223141410/</id>
+    <published>2019-02-23T06:14:10.000Z</published>
+    <updated>2019-02-23T06:14:10.207Z</updated>
     
-    <content type="html"><![CDATA[<div align="center"><br>作者：程嘉燧<br>江边一别两悠悠，湖上想思且滞留。 千里星河同此夜，廿桥明月自三秋。 无由结伴还乡国，况欲因人作远游。 潦倒更于何地会，见君空已雪盈头。<br></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：程嘉燧&lt;br&gt;江边一别两悠悠，湖上想思且滞留。 千里星河同此夜，廿桥明月自三秋。 无由结伴还乡国，况欲因人作远游。 潦倒更于何地会，见君空已雪盈头。&lt;br&gt;&lt;/div&gt;
-      
-    
-    </summary>
-    
-      <category term="明代" scheme="http://poemhub.pub/categories/%E6%98%8E%E4%BB%A3/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>七步诗</title>
-    <link href="http://poemhub.pub/2019/02/15/%E4%B8%83%E6%AD%A5%E8%AF%97/"/>
-    <id>http://poemhub.pub/2019/02/15/七步诗/</id>
-    <published>2019-02-15T09:43:33.000Z</published>
-    <updated>2019-02-15T10:26:53.944Z</updated>
-    
-    <content type="html"><![CDATA[<div align="center"><br>作者：曹植<br>煮豆燃豆萁，豆在釜中泣。 本是同根生，相煎何太急？（版本一） 煮豆持作羹，漉菽以为汁。(菽 一作：豉) 萁在釜下燃，豆在釜中泣。 本自同根生，相煎何太急？（版本二）<br></div>]]></content>
+    <content type="html"><![CDATA[<div align="center"><br>作者：江标<br><p>剥落残碑认短铭，舍人书体出天廷。吾从字画徵旁刻，大《泰山铭》小《孝经》。</p><p>脱脱已罢巙巙卒，谁是平章至正秋。一记不传名姓在，朔方剩有断碑留。</p><br></div>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：曹植&lt;br&gt;煮豆燃豆萁，豆在釜中泣。 本是同根生，相煎何太急？（版本一） 煮豆持作羹，漉菽以为汁。(菽 一作：豉) 萁在釜下燃，豆在釜中泣。 本自同根生，相煎何太急？（版本二）&lt;br&gt;&lt;/div&gt;
-      
-    
-    </summary>
-    
-      <category term="两汉" scheme="http://poemhub.pub/categories/%E4%B8%A4%E6%B1%89/"/>
-    
-    
-      <category term="最美" scheme="http://poemhub.pub/tags/%E6%9C%80%E7%BE%8E/"/>
-    
-      <category term="古诗三百首" scheme="http://poemhub.pub/tags/%E5%8F%A4%E8%AF%97%E4%B8%89%E7%99%BE%E9%A6%96/"/>
-    
-      <category term="小学古诗" scheme="http://poemhub.pub/tags/%E5%B0%8F%E5%AD%A6%E5%8F%A4%E8%AF%97/"/>
-    
-      <category term="劝诫" scheme="http://poemhub.pub/tags/%E5%8A%9D%E8%AF%AB/"/>
-    
-      <category term="亲情" scheme="http://poemhub.pub/tags/%E4%BA%B2%E6%83%85/"/>
-    
-      <category term="小学生必背古诗80首" scheme="http://poemhub.pub/tags/%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%BF%85%E8%83%8C%E5%8F%A4%E8%AF%9780%E9%A6%96/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>万府君挽词</title>
-    <link href="http://poemhub.pub/2019/02/15/%E4%B8%87%E5%BA%9C%E5%90%9B%E6%8C%BD%E8%AF%8D/"/>
-    <id>http://poemhub.pub/2019/02/15/万府君挽词/</id>
-    <published>2019-02-15T09:43:33.000Z</published>
-    <updated>2019-02-15T10:26:57.971Z</updated>
-    
-    <content type="html"><![CDATA[<div align="center"><br>作者：王十朋<br>东平隐君子，当以古人看。孝却豺群易，恩全雁序难。 人如心画正，度胜酒肠宽。粲粲三株树，门阑已壮观。<br></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：王十朋&lt;br&gt;东平隐君子，当以古人看。孝却豺群易，恩全雁序难。 人如心画正，度胜酒肠宽。粲粲三株树，门阑已壮观。&lt;br&gt;&lt;/div&gt;
-      
-    
-    </summary>
-    
-      <category term="宋代" scheme="http://poemhub.pub/categories/%E5%AE%8B%E4%BB%A3/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>三五七言 / 秋风词</title>
-    <link href="http://poemhub.pub/2019/02/15/%E4%B8%89%E4%BA%94%E4%B8%83%E8%A8%80%20-%20%E7%A7%8B%E9%A3%8E%E8%AF%8D/"/>
-    <id>http://poemhub.pub/2019/02/15/三五七言 - 秋风词/</id>
-    <published>2019-02-15T09:43:33.000Z</published>
-    <updated>2019-02-15T10:26:54.050Z</updated>
-    
-    <content type="html"><![CDATA[<div align="center"><br>作者：李白<br>秋风清，秋月明， 落叶聚还散，寒鸦栖复惊。 相思相见知何日？此时此夜难为情！<br></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：李白&lt;br&gt;秋风清，秋月明， 落叶聚还散，寒鸦栖复惊。 相思相见知何日？此时此夜难为情！&lt;br&gt;&lt;/div&gt;
-      
-    
-    </summary>
-    
-      <category term="唐代" scheme="http://poemhub.pub/categories/%E5%94%90%E4%BB%A3/"/>
-    
-    
-      <category term="宋词三百首" scheme="http://poemhub.pub/tags/%E5%AE%8B%E8%AF%8D%E4%B8%89%E7%99%BE%E9%A6%96/"/>
-    
-      <category term="思念" scheme="http://poemhub.pub/tags/%E6%80%9D%E5%BF%B5/"/>
-    
-      <category term="秋天" scheme="http://poemhub.pub/tags/%E7%A7%8B%E5%A4%A9/"/>
-    
-      <category term="抒情" scheme="http://poemhub.pub/tags/%E6%8A%92%E6%83%85/"/>
-    
-      <category term="爱情" scheme="http://poemhub.pub/tags/%E7%88%B1%E6%83%85/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>三叠</title>
-    <link href="http://poemhub.pub/2019/02/15/%E4%B8%89%E5%8F%A0/"/>
-    <id>http://poemhub.pub/2019/02/15/三叠/</id>
-    <published>2019-02-15T09:43:33.000Z</published>
-    <updated>2019-02-15T10:26:56.883Z</updated>
-    
-    <content type="html"><![CDATA[<div align="center"><br>作者：刘克庄<br>春意萌于肃杀中，玄冥信有斡回功。 东皇太一无情甚，吹去才消几阵风。<br></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：刘克庄&lt;br&gt;春意萌于肃杀中，玄冥信有斡回功。 东皇太一无情甚，吹去才消几阵风。&lt;br&gt;&lt;/div&gt;
-      
-    
-    </summary>
-    
-      <category term="宋代" scheme="http://poemhub.pub/categories/%E5%AE%8B%E4%BB%A3/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>三姝媚</title>
-    <link href="http://poemhub.pub/2019/02/15/%E4%B8%89%E5%A7%9D%E5%AA%9A/"/>
-    <id>http://poemhub.pub/2019/02/15/三姝媚/</id>
-    <published>2019-02-15T09:43:33.000Z</published>
-    <updated>2019-02-15T10:26:57.764Z</updated>
-    
-    <content type="html"><![CDATA[<div align="center"><br>作者：蒋敦复<br>疏灯摇梦惯。检愁痕今宵，酒醒何限。倦旅关河，祗带围宽尽，故襟尘浣。 想见天寒，空倚竹、碧牵萝蔓。怕问春来，都解双栖，等闲莺燕。 望远垂杨遮断。漫道是天长，比相思短。人倚琼窗，记紫箫度曲，翠尊开宴。 华发无情，能几度、东风吹变。悔住江南波绿，迢迢恨满。<br></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：蒋敦复&lt;br&gt;疏灯摇梦惯。检愁痕今宵，酒醒何限。倦旅关河，祗带围宽尽，故襟尘浣。 想见天寒，空倚竹、碧牵萝蔓。怕问春来，都解双栖，等闲莺燕。 望远垂杨遮断。漫道是天长，比相思短。人倚琼窗，记紫箫度曲，翠尊开宴。 华发无情，能几
+        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：江标&lt;br&gt;&lt;p&gt;剥落残碑认短铭，舍人书体出天廷。吾从字画徵旁刻，大《泰山铭》小《孝经》。&lt;/p&gt;&lt;p&gt;脱脱已罢巙巙卒，谁是平章至正秋。一记不传名姓在，朔方剩有断碑留。&lt;/p&gt;&lt;br&gt;&lt;/div&gt;
       
     
     </summary>
@@ -428,52 +132,19 @@
   </entry>
   
   <entry>
-    <title>三峡</title>
-    <link href="http://poemhub.pub/2019/02/15/%E4%B8%89%E5%B3%A1/"/>
-    <id>http://poemhub.pub/2019/02/15/三峡/</id>
-    <published>2019-02-15T09:43:33.000Z</published>
-    <updated>2019-02-15T10:26:53.759Z</updated>
+    <title>安公子·烛泪，同讱庵、沧江、宝权作</title>
+    <link href="http://poemhub.pub/2019/02/23/%E5%AE%89%E5%85%AC%E5%AD%90%C2%B7%E7%83%9B%E6%B3%AA%EF%BC%8C%E5%90%8C%E8%AE%B1%E5%BA%B5%E3%80%81%E6%B2%A7%E6%B1%9F%E3%80%81%E5%AE%9D%E6%9D%83%E4%BD%9C20190223141410/"/>
+    <id>http://poemhub.pub/2019/02/23/安公子·烛泪，同讱庵、沧江、宝权作20190223141410/</id>
+    <published>2019-02-23T06:14:10.000Z</published>
+    <updated>2019-02-23T06:14:10.061Z</updated>
     
-    <content type="html"><![CDATA[<div align="center"><br>作者：郦道元<br>　　自三峡七百里中，两岸连山，略无阙处。重岩叠嶂，隐天蔽日。自非亭午夜分，不见曦月。(阙 通：缺；重岩 一作：重峦) 　　至于夏水襄陵，沿溯阻绝。或王命急宣，有时朝发白帝，暮到江陵，其间千二百里，虽乘奔御风，不以疾也。(溯 同：泝；暮到 一作：暮至) 　　春冬之时，则素湍绿潭，回清倒影。绝巘多生怪柏，悬泉瀑布，飞漱其间，清荣峻茂，良多趣味。(巘 一作：山献) 　　每至晴初霜旦，林寒涧肃，常有高猿长啸，属引凄异，空谷传响，哀转久绝。故渔者歌曰：“巴东三峡巫峡长，猿鸣三声泪沾裳。”<br></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：郦道元&lt;br&gt;　　自三峡七百里中，两岸连山，略无阙处。重岩叠嶂，隐天蔽日。自非亭午夜分，不见曦月。(阙 通：缺；重岩 一作：重峦) 　　至于夏水襄陵，沿溯阻绝。或王命急宣，有时朝发白帝，暮到江陵，其间千二百里，虽乘奔御风，不以
-      
-    
-    </summary>
-    
-      <category term="南北朝" scheme="http://poemhub.pub/categories/%E5%8D%97%E5%8C%97%E6%9C%9D/"/>
-    
-    
-      <category term="写景" scheme="http://poemhub.pub/tags/%E5%86%99%E6%99%AF/"/>
-    
-      <category term="初中文言文" scheme="http://poemhub.pub/tags/%E5%88%9D%E4%B8%AD%E6%96%87%E8%A8%80%E6%96%87/"/>
-    
-      <category term="写水" scheme="http://poemhub.pub/tags/%E5%86%99%E6%B0%B4/"/>
-    
-      <category term="长江" scheme="http://poemhub.pub/tags/%E9%95%BF%E6%B1%9F/"/>
-    
-      <category term="热爱" scheme="http://poemhub.pub/tags/%E7%83%AD%E7%88%B1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>三字令</title>
-    <link href="http://poemhub.pub/2019/02/15/%E4%B8%89%E5%AD%97%E4%BB%A4/"/>
-    <id>http://poemhub.pub/2019/02/15/三字令/</id>
-    <published>2019-02-15T09:43:33.000Z</published>
-    <updated>2019-02-15T10:26:57.782Z</updated>
-    
-    <content type="html"><![CDATA[<div align="center"><br>作者：吴嘉谟<br>灯焰悄。夜迢迢。弄玉箫。凉意凑，酒痕销。入乡愁，增旅思，月儿高。 红豆冷，故关遥。人落落，鸡嘐嘐。祖生鞭，士行甓，真吾曹。<br></div>]]></content>
+    <content type="html"><![CDATA[<div align="center"><br>作者：袁思亮<br><p>玉指亲弹罢。绛花重结春无价。看去檀奴衣带上，早啼痕盈把。</p><p>肯悄共、金猊篆字看俱灺。还背伊、点滴残更罅。问未灰心事，长为谁行萦惹。</p><div class="small"></div><p>愁污香罗帕。替人垂到天明也。唾尽红冰俦比似，似针神初嫁。</p><p>算万古、良宵一例堪悲咤。膏自煎、枉遣同心挂。对蕙帏飘烬，赢得断肠难写。</p><br></div>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：吴嘉谟&lt;br&gt;灯焰悄。夜迢迢。弄玉箫。凉意凑，酒痕销。入乡愁，增旅思，月儿高。 红豆冷，故关遥。人落落，鸡嘐嘐。祖生鞭，士行甓，真吾曹。&lt;br&gt;&lt;/div&gt;
+        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：袁思亮&lt;br&gt;&lt;p&gt;玉指亲弹罢。绛花重结春无价。看去檀奴衣带上，早啼痕盈把。&lt;/p&gt;&lt;p&gt;肯悄共、金猊篆字看俱灺。还背伊、点滴残更罅。问未灰心事，长为谁行萦惹。&lt;/p&gt;&lt;div class=&quot;small&quot;&gt;&lt;/div&gt;&lt;p&gt;愁
       
     
     </summary>
@@ -484,19 +155,42 @@
   </entry>
   
   <entry>
-    <title>三月三日与客一绝</title>
-    <link href="http://poemhub.pub/2019/02/15/%E4%B8%89%E6%9C%88%E4%B8%89%E6%97%A5%E4%B8%8E%E5%AE%A2%E4%B8%80%E7%BB%9D/"/>
-    <id>http://poemhub.pub/2019/02/15/三月三日与客一绝/</id>
-    <published>2019-02-15T09:43:33.000Z</published>
-    <updated>2019-02-15T10:26:58.038Z</updated>
+    <title>庐山杂诗十四首 其二 佛手岩饮泉水</title>
+    <link href="http://poemhub.pub/2019/02/23/%E5%BA%90%E5%B1%B1%E6%9D%82%E8%AF%97%E5%8D%81%E5%9B%9B%E9%A6%96%20%E5%85%B6%E4%BA%8C%20%E4%BD%9B%E6%89%8B%E5%B2%A9%E9%A5%AE%E6%B3%89%E6%B0%B420190223141410/"/>
+    <id>http://poemhub.pub/2019/02/23/庐山杂诗十四首 其二 佛手岩饮泉水20190223141410/</id>
+    <published>2019-02-23T06:14:10.000Z</published>
+    <updated>2019-02-23T06:14:10.080Z</updated>
     
-    <content type="html"><![CDATA[<div align="center"><br>作者：陆深<br>城外青山翠可餐，欲酬心约怕春寒。美人肯伴云中宿，为买青骢白玉鞍。<br></div>]]></content>
+    <content type="html"><![CDATA[<div align="center"><br>作者：汪精卫<br><p>岩叶因风响碧廊，秋花络石意深长。自惭肝肺无由热，尚为冰泉进一觞。</p><br></div>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：陆深&lt;br&gt;城外青山翠可餐，欲酬心约怕春寒。美人肯伴云中宿，为买青骢白玉鞍。&lt;br&gt;&lt;/div&gt;
+        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：汪精卫&lt;br&gt;&lt;p&gt;岩叶因风响碧廊，秋花络石意深长。自惭肝肺无由热，尚为冰泉进一觞。&lt;/p&gt;&lt;br&gt;&lt;/div&gt;
+      
+    
+    </summary>
+    
+      <category term="近现代" scheme="http://poemhub.pub/categories/%E8%BF%91%E7%8E%B0%E4%BB%A3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>寿表侄谢文石时文石游端州 其二</title>
+    <link href="http://poemhub.pub/2019/02/23/%E5%AF%BF%E8%A1%A8%E4%BE%84%E8%B0%A2%E6%96%87%E7%9F%B3%E6%97%B6%E6%96%87%E7%9F%B3%E6%B8%B8%E7%AB%AF%E5%B7%9E%20%E5%85%B6%E4%BA%8C20190223141410/"/>
+    <id>http://poemhub.pub/2019/02/23/寿表侄谢文石时文石游端州 其二20190223141410/</id>
+    <published>2019-02-23T06:14:10.000Z</published>
+    <updated>2019-02-23T06:14:10.145Z</updated>
+    
+    <content type="html"><![CDATA[<div align="center"><br>作者：张萱<br><p>绛帐高悬端水湄，笔耕舌耨乐难支。人中眉寿天中节，长命何须五色丝。</p><br></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：张萱&lt;br&gt;&lt;p&gt;绛帐高悬端水湄，笔耕舌耨乐难支。人中眉寿天中节，长命何须五色丝。&lt;/p&gt;&lt;br&gt;&lt;/div&gt;
       
     
     </summary>
@@ -507,19 +201,42 @@
   </entry>
   
   <entry>
-    <title>三月三日宴王明府山亭（得花字）</title>
-    <link href="http://poemhub.pub/2019/02/15/%E4%B8%89%E6%9C%88%E4%B8%89%E6%97%A5%E5%AE%B4%E7%8E%8B%E6%98%8E%E5%BA%9C%E5%B1%B1%E4%BA%AD%EF%BC%88%E5%BE%97%E8%8A%B1%E5%AD%97%EF%BC%89/"/>
-    <id>http://poemhub.pub/2019/02/15/三月三日宴王明府山亭（得花字）/</id>
-    <published>2019-02-15T09:43:33.000Z</published>
-    <updated>2019-02-15T10:26:57.866Z</updated>
+    <title>九日登卧龙山呈同官又一绝</title>
+    <link href="http://poemhub.pub/2019/02/23/%E4%B9%9D%E6%97%A5%E7%99%BB%E5%8D%A7%E9%BE%99%E5%B1%B1%E5%91%88%E5%90%8C%E5%AE%98%E5%8F%88%E4%B8%80%E7%BB%9D20190223141410/"/>
+    <id>http://poemhub.pub/2019/02/23/九日登卧龙山呈同官又一绝20190223141410/</id>
+    <published>2019-02-23T06:14:10.000Z</published>
+    <updated>2019-02-23T06:14:10.112Z</updated>
     
-    <content type="html"><![CDATA[<div align="center"><br>作者：韩仲宣<br>河滨上巳，洛汭春华。碧池涵日，翠斝澄霞。沟垂细柳， 岸拥平沙。歌莺响树，舞蝶惊花。云浮宝马，水韵香车。 熟记行乐，淹留景斜。<br></div>]]></content>
+    <content type="html"><![CDATA[<div align="center"><br>作者：王十朋<br><p>夔子山高峡天阔，骚人宅近刚肠悲。菊花上头不易得，酒盏到手何须辞。</p><br></div>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：韩仲宣&lt;br&gt;河滨上巳，洛汭春华。碧池涵日，翠斝澄霞。沟垂细柳， 岸拥平沙。歌莺响树，舞蝶惊花。云浮宝马，水韵香车。 熟记行乐，淹留景斜。&lt;br&gt;&lt;/div&gt;
+        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：王十朋&lt;br&gt;&lt;p&gt;夔子山高峡天阔，骚人宅近刚肠悲。菊花上头不易得，酒盏到手何须辞。&lt;/p&gt;&lt;br&gt;&lt;/div&gt;
+      
+    
+    </summary>
+    
+      <category term="宋代" scheme="http://poemhub.pub/categories/%E5%AE%8B%E4%BB%A3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>唐城馆中早发，寄杨使君</title>
+    <link href="http://poemhub.pub/2019/02/23/%E5%94%90%E5%9F%8E%E9%A6%86%E4%B8%AD%E6%97%A9%E5%8F%91%EF%BC%8C%E5%AF%84%E6%9D%A8%E4%BD%BF%E5%90%9B20190223141410/"/>
+    <id>http://poemhub.pub/2019/02/23/唐城馆中早发，寄杨使君20190223141410/</id>
+    <published>2019-02-23T06:14:10.000Z</published>
+    <updated>2019-02-23T06:14:10.235Z</updated>
+    
+    <content type="html"><![CDATA[<div align="center"><br>作者：孟浩然<br>犯霜驱晓驾，数里见唐城。旅馆归心逼，荒村客思盈。 <br> 访人留后信，策蹇赴前程。欲识离魂断，长空听雁声。<br></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：孟浩然&lt;br&gt;犯霜驱晓驾，数里见唐城。旅馆归心逼，荒村客思盈。 &lt;br&gt; 访人留后信，策蹇赴前程。欲识离魂断，长空听雁声。&lt;br&gt;&lt;/div&gt;
       
     
     </summary>
@@ -530,19 +247,226 @@
   </entry>
   
   <entry>
-    <title>三林海上即事</title>
-    <link href="http://poemhub.pub/2019/02/15/%E4%B8%89%E6%9E%97%E6%B5%B7%E4%B8%8A%E5%8D%B3%E4%BA%8B/"/>
-    <id>http://poemhub.pub/2019/02/15/三林海上即事/</id>
-    <published>2019-02-15T09:43:33.000Z</published>
-    <updated>2019-02-15T10:26:56.307Z</updated>
+    <title>寿杨宗德行人父八十</title>
+    <link href="http://poemhub.pub/2019/02/23/%E5%AF%BF%E6%9D%A8%E5%AE%97%E5%BE%B7%E8%A1%8C%E4%BA%BA%E7%88%B6%E5%85%AB%E5%8D%8120190223141410/"/>
+    <id>http://poemhub.pub/2019/02/23/寿杨宗德行人父八十20190223141410/</id>
+    <published>2019-02-23T06:14:10.000Z</published>
+    <updated>2019-02-23T06:14:10.177Z</updated>
     
-    <content type="html"><![CDATA[<div align="center"><br>作者：孙元衡<br>天外何争半日停，暂将蜑室作邮亭。雾沈秋嶂晓风毒，雨过海滩云气鯹。 万里浪边来视事，一条沙外去扬舲。重阳节近休回首，那得登台醉不醒！<br></div>]]></content>
+    <content type="html"><![CDATA[<div align="center"><br>作者：朱诚泳<br><p>薰风四月动朱弦，昼锦堂开上寿筵。翠柏苍松春不老，少微南极夜同躔。</p><p>芟强曾慰良民望，登第今推令子贤。从此仙家消息好，等閒沧海变桑田。</p><br></div>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：孙元衡&lt;br&gt;天外何争半日停，暂将蜑室作邮亭。雾沈秋嶂晓风毒，雨过海滩云气鯹。 万里浪边来视事，一条沙外去扬舲。重阳节近休回首，那得登台醉不醒！&lt;br&gt;&lt;/div&gt;
+        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：朱诚泳&lt;br&gt;&lt;p&gt;薰风四月动朱弦，昼锦堂开上寿筵。翠柏苍松春不老，少微南极夜同躔。&lt;/p&gt;&lt;p&gt;芟强曾慰良民望，登第今推令子贤。从此仙家消息好，等閒沧海变桑田。&lt;/p&gt;&lt;br&gt;&lt;/div&gt;
+      
+    
+    </summary>
+    
+      <category term="明代" scheme="http://poemhub.pub/categories/%E6%98%8E%E4%BB%A3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>听琴</title>
+    <link href="http://poemhub.pub/2019/02/23/%E5%90%AC%E7%90%B420190223141410/"/>
+    <id>http://poemhub.pub/2019/02/23/听琴20190223141410/</id>
+    <published>2019-02-23T06:14:10.000Z</published>
+    <updated>2019-02-23T06:14:10.035Z</updated>
+    
+    <content type="html"><![CDATA[<div align="center"><br>作者：张伯元<br><p>泠泠三弄曲，叠叠我伤心。昨与梅花别，归来雪满襟。</p><br></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：张伯元&lt;br&gt;&lt;p&gt;泠泠三弄曲，叠叠我伤心。昨与梅花别，归来雪满襟。&lt;/p&gt;&lt;br&gt;&lt;/div&gt;
+      
+    
+    </summary>
+    
+      <category term="近现代" scheme="http://poemhub.pub/categories/%E8%BF%91%E7%8E%B0%E4%BB%A3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>嘉定甲申闰月五日开皇帝升遐</title>
+    <link href="http://poemhub.pub/2019/02/23/%E5%98%89%E5%AE%9A%E7%94%B2%E7%94%B3%E9%97%B0%E6%9C%88%E4%BA%94%E6%97%A5%E5%BC%80%E7%9A%87%E5%B8%9D%E5%8D%87%E9%81%9020190223141410/"/>
+    <id>http://poemhub.pub/2019/02/23/嘉定甲申闰月五日开皇帝升遐20190223141410/</id>
+    <published>2019-02-23T06:14:10.000Z</published>
+    <updated>2019-02-23T06:14:10.150Z</updated>
+    
+    <content type="html"><![CDATA[<div align="center"><br>作者：白玉蟾<br>唳鹤啼猿怨满怀，烟葵露槿泪盈腮。<br>一钩桂月千林黯，半夜松风万壑哀。<br>不御六龙昌宝祚，遽骖八骏驻瑶台。<br>小卧泉石膏肓了，无任冰肝玉胆摧。<br></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：白玉蟾&lt;br&gt;唳鹤啼猿怨满怀，烟葵露槿泪盈腮。&lt;br&gt;一钩桂月千林黯，半夜松风万壑哀。&lt;br&gt;不御六龙昌宝祚，遽骖八骏驻瑶台。&lt;br&gt;小卧泉石膏肓了，无任冰肝玉胆摧。&lt;br&gt;&lt;/div&gt;
+      
+    
+    </summary>
+    
+      <category term="宋代" scheme="http://poemhub.pub/categories/%E5%AE%8B%E4%BB%A3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>挽兴化陆子贤举人</title>
+    <link href="http://poemhub.pub/2019/02/23/%E6%8C%BD%E5%85%B4%E5%8C%96%E9%99%86%E5%AD%90%E8%B4%A4%E4%B8%BE%E4%BA%BA20190223141410/"/>
+    <id>http://poemhub.pub/2019/02/23/挽兴化陆子贤举人20190223141410/</id>
+    <published>2019-02-23T06:14:10.000Z</published>
+    <updated>2019-02-23T06:14:10.166Z</updated>
+    
+    <content type="html"><![CDATA[<div align="center"><br>作者：罗钦顺<br><p>平生春秋学，字字经推寻。跃如果何物，昭哉素王心。</p><p>兴贤诏屡下，丛棘围冠襟。文章岂不美，谁辨沙中金。</p><p>俛首充岁赋，远韵无悲吟。瑶京日华紫，璧水春流深。</p><p>仰止琼台翁，一旦逢知音。骅骝鸣向乐，万马立皆瘖。</p><p>价增终有合，天定讵难谌。光华京兆榜，魁名动儒林。</p><p>庶几日千里，如何中陆沈。凄凉淮海畔，风物莽萧森。</p><p>浮生孰为久，大节人所钦。庭闱怀婉婉，襟度想愔愔。</p><p>遗劳析薪在，负荷诸孤任。显扬会有日，鼎荐宜居歆。</p><p>旻天多雨露，楸梧郁繁阴。怀贤良自苦，怅望空遥岑。</p><br></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：罗钦顺&lt;br&gt;&lt;p&gt;平生春秋学，字字经推寻。跃如果何物，昭哉素王心。&lt;/p&gt;&lt;p&gt;兴贤诏屡下，丛棘围冠襟。文章岂不美，谁辨沙中金。&lt;/p&gt;&lt;p&gt;俛首充岁赋，远韵无悲吟。瑶京日华紫，璧水春流深。&lt;/p&gt;&lt;p&gt;仰止琼台翁，一旦逢知
+      
+    
+    </summary>
+    
+      <category term="明代" scheme="http://poemhub.pub/categories/%E6%98%8E%E4%BB%A3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>怀安道中</title>
+    <link href="http://poemhub.pub/2019/02/23/%E6%80%80%E5%AE%89%E9%81%93%E4%B8%AD20190223141410/"/>
+    <id>http://poemhub.pub/2019/02/23/怀安道中20190223141410/</id>
+    <published>2019-02-23T06:14:10.000Z</published>
+    <updated>2019-02-23T06:14:10.133Z</updated>
+    
+    <content type="html"><![CDATA[<div align="center"><br>作者：刘克庄<br>闽溪瘴岭客程赊，晓泊怀安喜近家。<br>大屋书旗夸酒米，小舟鸣艣竞鱼虾。<br>溪移驿已临高岸，潮退帆多聚浅沙。<br>快著征衫鞭瘦马，要看二十里梅花。<br></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：刘克庄&lt;br&gt;闽溪瘴岭客程赊，晓泊怀安喜近家。&lt;br&gt;大屋书旗夸酒米，小舟鸣艣竞鱼虾。&lt;br&gt;溪移驿已临高岸，潮退帆多聚浅沙。&lt;br&gt;快著征衫鞭瘦马，要看二十里梅花。&lt;br&gt;&lt;/div&gt;
+      
+    
+    </summary>
+    
+      <category term="宋代" scheme="http://poemhub.pub/categories/%E5%AE%8B%E4%BB%A3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>九日</title>
+    <link href="http://poemhub.pub/2019/02/23/%E4%B9%9D%E6%97%A520190223141410/"/>
+    <id>http://poemhub.pub/2019/02/23/九日20190223141410/</id>
+    <published>2019-02-23T06:14:10.000Z</published>
+    <updated>2019-02-23T06:14:10.173Z</updated>
+    
+    <content type="html"><![CDATA[<div align="center"><br>作者：郭嵩焘<br><p>岁岁兹辰泛菊觞，今余泪雨洒衣裳。蕲黄形胜余回合，江汉波涛接混茫。</p><p>万里秋风催短发，三年转战又重阳。茱萸酒尽天涯会，回首干戈道路长。</p><br></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：郭嵩焘&lt;br&gt;&lt;p&gt;岁岁兹辰泛菊觞，今余泪雨洒衣裳。蕲黄形胜余回合，江汉波涛接混茫。&lt;/p&gt;&lt;p&gt;万里秋风催短发，三年转战又重阳。茱萸酒尽天涯会，回首干戈道路长。&lt;/p&gt;&lt;br&gt;&lt;/div&gt;
+      
+    
+    </summary>
+    
+      <category term="清代" scheme="http://poemhub.pub/categories/%E6%B8%85%E4%BB%A3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>挽敖仪仲 其一</title>
+    <link href="http://poemhub.pub/2019/02/23/%E6%8C%BD%E6%95%96%E4%BB%AA%E4%BB%B2%20%E5%85%B6%E4%B8%8020190223141410/"/>
+    <id>http://poemhub.pub/2019/02/23/挽敖仪仲 其一20190223141410/</id>
+    <published>2019-02-23T06:14:10.000Z</published>
+    <updated>2019-02-23T06:14:10.025Z</updated>
+    
+    <content type="html"><![CDATA[<div align="center"><br>作者：刘翼<br><p>半面春风已有情，别来重见眼终青。空斋夜雨十年后，一醉黄花叫不醒。</p><br></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：刘翼&lt;br&gt;&lt;p&gt;半面春风已有情，别来重见眼终青。空斋夜雨十年后，一醉黄花叫不醒。&lt;/p&gt;&lt;br&gt;&lt;/div&gt;
+      
+    
+    </summary>
+    
+      <category term="宋代" scheme="http://poemhub.pub/categories/%E5%AE%8B%E4%BB%A3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>感遇 其八</title>
+    <link href="http://poemhub.pub/2019/02/23/%E6%84%9F%E9%81%87%20%E5%85%B6%E5%85%AB20190223141410/"/>
+    <id>http://poemhub.pub/2019/02/23/感遇 其八20190223141410/</id>
+    <published>2019-02-23T06:14:10.000Z</published>
+    <updated>2019-02-23T06:14:10.184Z</updated>
+    
+    <content type="html"><![CDATA[<div align="center"><br>作者：邓云霄<br><p>精卫一何愚，衔尽西山石。东溟波万里，力微岂能敌。</p><p>独怜帝女灵，芳魂或重溺。仲尼浮海心，李叟流沙迹。</p><p>知不可柰何，安命甘踵息。</p><br></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：邓云霄&lt;br&gt;&lt;p&gt;精卫一何愚，衔尽西山石。东溟波万里，力微岂能敌。&lt;/p&gt;&lt;p&gt;独怜帝女灵，芳魂或重溺。仲尼浮海心，李叟流沙迹。&lt;/p&gt;&lt;p&gt;知不可柰何，安命甘踵息。&lt;/p&gt;&lt;br&gt;&lt;/div&gt;
+      
+    
+    </summary>
+    
+      <category term="明代" scheme="http://poemhub.pub/categories/%E6%98%8E%E4%BB%A3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>南京翰林三年秩满偶书所怀</title>
+    <link href="http://poemhub.pub/2019/02/23/%E5%8D%97%E4%BA%AC%E7%BF%B0%E6%9E%97%E4%B8%89%E5%B9%B4%E7%A7%A9%E6%BB%A1%E5%81%B6%E4%B9%A6%E6%89%80%E6%80%8020190223141410/"/>
+    <id>http://poemhub.pub/2019/02/23/南京翰林三年秩满偶书所怀20190223141410/</id>
+    <published>2019-02-23T06:14:10.000Z</published>
+    <updated>2019-02-23T06:14:10.156Z</updated>
+    
+    <content type="html"><![CDATA[<div align="center"><br>作者：周叙<br><p>凉风残雨乍晴天，牒却铜章赴日边。儒宦五朝凡五德，沾恩三十又三年。</p><p>欺人白发千茎改，报国丹衷不日悬。便拟乞身营别墅，冶城山畔白门前。</p><br></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：周叙&lt;br&gt;&lt;p&gt;凉风残雨乍晴天，牒却铜章赴日边。儒宦五朝凡五德，沾恩三十又三年。&lt;/p&gt;&lt;p&gt;欺人白发千茎改，报国丹衷不日悬。便拟乞身营别墅，冶城山畔白门前。&lt;/p&gt;&lt;br&gt;&lt;/div&gt;
+      
+    
+    </summary>
+    
+      <category term="明代" scheme="http://poemhub.pub/categories/%E6%98%8E%E4%BB%A3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>捣练子 闺夜</title>
+    <link href="http://poemhub.pub/2019/02/23/%E6%8D%A3%E7%BB%83%E5%AD%90%20%E9%97%BA%E5%A4%9C20190223141410/"/>
+    <id>http://poemhub.pub/2019/02/23/捣练子 闺夜20190223141410/</id>
+    <published>2019-02-23T06:14:10.000Z</published>
+    <updated>2019-02-23T06:14:10.011Z</updated>
+    
+    <content type="html"><![CDATA[<div align="center"><br>作者：吴琪<br><p>星耿耿，石悠悠。小梦依依鹦鹉洲。菡萏冰河通绣帐，玲珑碧月下金钩。</p><br></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;作者：吴琪&lt;br&gt;&lt;p&gt;星耿耿，石悠悠。小梦依依鹦鹉洲。菡萏冰河通绣帐，玲珑碧月下金钩。&lt;/p&gt;&lt;br&gt;&lt;/div&gt;
       
     
     </summary>
